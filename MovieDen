@@ -1,0 +1,5 @@
+git clone https://github.com/Reepak9/MovieDen.git
+cd MovieDen
+git add .
+git commit -m "Added MovieDen files"
+git push origin main
